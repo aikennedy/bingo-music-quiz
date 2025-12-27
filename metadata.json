@@ -1,0 +1,7 @@
+{
+  "name": "Bingo Music Quiz",
+  "description": "A high-visibility music quiz game with a 5x5 bingo board, featuring color-coded challenges, randomized grid generation with specific constraints, and persistent state for TV casting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
